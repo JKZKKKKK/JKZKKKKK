@@ -5,6 +5,14 @@ body {
     align-items: center; /* ★ */
     justify-content: center;
 }
+
+html, body {
+  height: 100%;
+}
+.login {
+  margin: auto;
+}
+
 .login {
       background-color: #0b132b;
       width: 400px;
